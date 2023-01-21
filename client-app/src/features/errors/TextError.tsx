@@ -78,6 +78,3 @@ export default function TestErrors() {
     </>
   );
 }
-function UseState(): [any, any] {
-  throw new Error("Function not implemented.");
-}

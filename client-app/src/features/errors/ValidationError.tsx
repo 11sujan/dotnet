@@ -1,4 +1,3 @@
-import { ErrorResponse } from "@remix-run/router";
 import { Message } from "semantic-ui-react";
 
 interface Props {
